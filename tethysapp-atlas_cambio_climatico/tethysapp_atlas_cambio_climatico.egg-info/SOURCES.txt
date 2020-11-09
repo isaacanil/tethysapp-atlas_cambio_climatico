@@ -1,0 +1,12 @@
+setup.py
+tethysapp/atlas_cambio_climatico/__init__.py
+tethysapp/atlas_cambio_climatico/app.py
+tethysapp/atlas_cambio_climatico/controllers.py
+tethysapp/atlas_cambio_climatico/handoff.py
+tethysapp/atlas_cambio_climatico/tests/__init__.py
+tethysapp/atlas_cambio_climatico/tests/tests.py
+tethysapp_atlas_cambio_climatico.egg-info/PKG-INFO
+tethysapp_atlas_cambio_climatico.egg-info/SOURCES.txt
+tethysapp_atlas_cambio_climatico.egg-info/dependency_links.txt
+tethysapp_atlas_cambio_climatico.egg-info/not-zip-safe
+tethysapp_atlas_cambio_climatico.egg-info/top_level.txt
